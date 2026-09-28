@@ -10,7 +10,7 @@ The increasing use of AI in education creates challenges such as plagiarism, exc
 
 ## Proposed Solution
 
-AICompass provides tools to help students use AI more responsibly while maintaining academic integrity through AI usage monitoring, plagiarism checking, paraphrasing, and ethics education.
+AICompass provides tools to help students use AI more responsibly while maintaining academic integrity through plagiarism checking, paraphrasing, AI usage monitoring, and ethics education.
 
 ## Key Features
 
@@ -24,7 +24,7 @@ AICompass provides tools to help students use AI more responsibly while maintain
 
 ## UI/UX Design
 
-The project includes a UI/UX prototype designed to support students and educators in monitoring and managing AI usage in academic activities.
+The project includes a Figma prototype designed to support students and educators in monitoring and managing AI usage in academic activities.
 
 ## Tools
 
@@ -32,6 +32,7 @@ The project includes a UI/UX prototype designed to support students and educator
 - UI/UX Design
 - Product Design
 
-## Documentation
+## Project Files
 
-[View Project Documentation](AICompass%20%281%29.pdf)
+- [View Project Documentation](AICompass%20%281%29.pdf)
+- [View Figma Prototype](https://www.figma.com/design/X2endLYgubaCB3NuOS8msJ/Aicompass?node-id=0-1&t=oXhCVnaZp9W1L2mx-1)
